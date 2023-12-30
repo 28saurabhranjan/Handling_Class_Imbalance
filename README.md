@@ -6,5 +6,5 @@ In order to highlight the implications of the imbalanced learning problem, this 
 Other review paper is "Boosting methods for Multi‑class Imbalanced data classifcation". Multiclass Imbalanced data is much harder than binary datasets. This paper’s aim is to review the most significant published boosting techniques on multi-class imbalanced datasets. A thorough empirical comparison is conducted to analyze the performance of binary and multi-class boosting algorithms on various multi-class imbalanced datasets. The studies show that CatBoost and LogitBoost algorithms are superior to other boosting algorithms on multi class imbalanced and big datasets respectively. MMCC is a better evaluation metric than the MAUC and G-mean in multi-class imbalanced data domains.
 
 Here is the Overleaf link of review of both papers:
-Handling Class Imbalance: https://www.overleaf.com/read/zxysbwtdgtkv#a64cce
+Handling Class Imbalance: https://www.overleaf.com/read/zxysbwtdgtkv#a64cce 
 Handling Multiclass Imbalanced Datasets: https://www.overleaf.com/7142833642yrfxhdddjwgy#e67cb6 
